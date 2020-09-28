@@ -1,2 +1,3 @@
-# synchronous-ball-movement
+# synchronous ball movement
+
 Ball moving synchronously across browsers.
